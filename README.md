@@ -1,3 +1,7 @@
+# 通过python，利用selenium和Chromedriver在chrome浏览器实现多个网站自动登录，并轮巡展示功能。
+
+
+
 # 将webdemo文件放到D盘
 ## 1.需要配置环境变量（双击 配置环境.bat ）可能会有告警
 ## 2.如果pip list不成功，需要运行get-pip.py文件
