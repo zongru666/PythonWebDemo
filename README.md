@@ -1,7 +1,7 @@
 # 将webdemo文件放到D盘
-1.需要配置环境变量（双击 配置环境.bat ）可能会有告警
-2.如果pip list不成功，需要运行get-pip.py文件
-3.还要看chrome版本是不是87.0.4280.x
+## 1.需要配置环境变量（双击 配置环境.bat ）可能会有告警
+## 2.如果pip list不成功，需要运行get-pip.py文件
+## 3.还要看chrome版本是不是87.0.4280.x
 （有些高于这个版本也行，如果不行就要更改driver，搜索chromedriver并下载对应win32版本，解压并将exe文件添加到webdemo20220517\done\python-3.7.8-embed-amd64\Scripts路径下）
 
 
@@ -36,7 +36,6 @@ import site  #其实就是去掉前面的“#”
 pip install selenium
 下载chromedriver（版本与chrome要对应，将chromedriver.exe放到script文件夹下）
 https://www.cnblogs.com/hester/p/11321884.html#_label2_0
-(本例已经将get-pip.py和chromedriver【对应chrome版本87.0.4280】放到对应文件夹封装成压缩包了哦)
 
 
 
