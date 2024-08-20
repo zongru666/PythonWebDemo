@@ -1,24 +1,15 @@
 # 通过python，利用selenium和Chromedriver在chrome浏览器实现多个网站自动登录，并轮巡展示功能。
 
-
-
 # 将webdemo文件放到D盘
 ## 1.需要配置环境变量（双击 配置环境.bat ）可能会有告警
 ## 2.如果pip list不成功，需要运行get-pip.py文件
 ## 3.还要看chrome版本是不是87.0.4280.x
 （有些高于这个版本也行，如果不行就要更改driver，搜索chromedriver并下载对应win32版本，解压并将exe文件添加到webdemo20220517\done\python-3.7.8-embed-amd64\Scripts路径下）
 
-
-
-
-
 Chrome浏览器实现自动登录网页
 安装python①（或者使用便携版②）（以python3.7.8为例）
 # ①直接安装python
 下载executable版安装
-
-
-
 
 # ②使用便携版
 下载python embeddable版本（最好解压放到英文路径下）
@@ -45,8 +36,6 @@ https://www.cnblogs.com/hester/p/11321884.html#_label2_0
 ![mm_reward_qrcode_1724116372006(1)](https://github.com/user-attachments/assets/ae10606c-2a42-4486-8e6d-7b7d056ca8f4)
 
 ## Star History  
-[返回目录](#Contents)  
-
 [![Star History Chart](https://api.star-history.com/svg?repos=zongru666/BreadcrumbsPythonWebDemo&type=Timeline)](https://star-history.com/#zongru666/BreadcrumbsPythonWebDemo&Timeline)
 
 
