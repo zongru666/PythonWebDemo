@@ -36,7 +36,7 @@ https://www.cnblogs.com/hester/p/11321884.html#_label2_0
 ![mm_reward_qrcode_1724116372006(1)](https://github.com/user-attachments/assets/ae10606c-2a42-4486-8e6d-7b7d056ca8f4)
 
 ## Star History  
-[![Star History Chart](https://api.star-history.com/svg?repos=zongru666/BreadcrumbsPythonWebDemo&type=Timeline)](https://star-history.com/#zongru666/BreadcrumbsPythonWebDemo&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=zongru666/PythonWebDemo&type=Timeline)](https://star-history.com/#zongru666/PythonWebDemo&Timeline)
 
 
 
